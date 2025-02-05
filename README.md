@@ -3,7 +3,7 @@
 I'm currently a Fullstack Web Developer in a work-study program 📚
 
 - 🔭 I’m currently working on my portfolio
-- 📍 I'm located in #Nantes since few years
+- 📍 I'm located in #Toulouse
 - 💬 I will soon be looking for a new adventure in a company 
 <!--
 **baptistemontecot/baptistemontecot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
